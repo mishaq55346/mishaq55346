@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Mikhail
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring Framework
